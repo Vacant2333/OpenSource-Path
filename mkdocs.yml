@@ -1,1 +1,41 @@
-site_name: OpenSource-Path
+site_name: 开源指南OpenSource-Path
+site_url: https://vacant2333.github.io/OpenSource-Path/
+
+repo_name: OpenSource-Path
+repo_url: https://github.com/Vacant2333/OpenSource-Path
+
+theme:
+  name: material
+  language: zh
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - header.autohide
+
+nav:
+  - 主页: "index.md"
+  - 基础知识: "basic_information.md"
+  - 活动总结: "activities_summary.md"
+  - OSPP开源之夏:
+      - "ospp/index.md"
+      - 前人经验:
+          - Vacant2333: ""
+  - GSoC:
+      - "gsoc/index.md"
+  - LFX:
+      - "lfx/index.md"
+      - 前人经验:
+          - Vacant2333: ""
+  - 前人经验:
+      - Vacant2333: ""
