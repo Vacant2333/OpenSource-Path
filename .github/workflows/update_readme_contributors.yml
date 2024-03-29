@@ -13,5 +13,6 @@ jobs:
         with:
           image_size: 80
           columns_per_row: 8
+          use_username: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
