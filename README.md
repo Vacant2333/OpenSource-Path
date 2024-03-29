@@ -31,7 +31,7 @@
         <a href="https://github.com/Vacant2333">
             <img src="https://avatars.githubusercontent.com/u/19872346?v=4" width="80;" alt="Vacant2333"/>
             <br />
-            <sub><b>Vacant</b></sub>
+            <sub><b>Vacant2333</b></sub>
         </a>
     </td></tr>
 </table>
