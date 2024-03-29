@@ -32,8 +32,7 @@
 
 ## TODO
 
-1. 添加[评论功能](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system).
-2. 移动README.md的贡献指南和相关介绍到文档中, 在README.md只留一个链接和贡献者列表.
+1. 移动README.md的贡献指南和相关介绍到文档中, 在README.md只留一个链接和贡献者列表.
 
 ## 贡献者列表
 

@@ -9,6 +9,7 @@ theme:
   language: zh
   logo: assets/logo.png
   favicon: assets/logo.png
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.instant.prefetch
