@@ -24,7 +24,7 @@ theme:
     - header.autohide
 
 nav:
-  - 主页: "index.md"
+  - 前言: "index.md"
   - 基础知识: "basic_information.md"
   - 活动总结: "activities_summary.md"
   - OSPP开源之夏:
@@ -37,5 +37,5 @@ nav:
       - "lfx/index.md"
       - 前人经验:
           - Vacant2333: ""
-  - 前人经验:
+  - 开源经历分享:
       - Vacant2333: ""

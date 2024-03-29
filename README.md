@@ -49,3 +49,6 @@
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Vacant2333/OpenSource-Path.svg?variant=light)](https://starchart.cc/Vacant2333/OpenSource-Path)
