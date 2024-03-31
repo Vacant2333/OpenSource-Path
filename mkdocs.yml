@@ -26,6 +26,7 @@ theme:
 
 nav:
   - 前言: "index.md"
+  - 贡献指南: "contribution_tutorial.md"
   - 基础知识: "basic_information.md"
   - 活动总结: "activities_summary.md"
   - OSPP开源之夏:
@@ -36,7 +37,5 @@ nav:
       - "gsoc/index.md"
   - LFX:
       - "lfx/index.md"
-      - 前人经验:
-          - Vacant2333: ""
   - 开源经历分享:
       - Vacant2333: ""

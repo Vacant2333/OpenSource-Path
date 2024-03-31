@@ -1,6 +1,6 @@
-# 开源指南OpenSource-Path
+# [点我 开源指南OpenSource-Path](https://vacant2333.github.io/OpenSource-Path/)
 
-[开源指南OpenSource-Path](https://vacant2333.github.io/OpenSource-Path/)
+贡献指南: https://vacant2333.github.io/OpenSource-Path/contribution_tutorial/
 
 ## 贡献者列表
 
